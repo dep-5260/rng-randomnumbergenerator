@@ -12,3 +12,4 @@ console.log(Number1)
 console.log(Number2)
 })
 ```
+###### This package is discontinued due to no other features will be added to the package
