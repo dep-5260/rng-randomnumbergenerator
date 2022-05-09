@@ -1,0 +1,35 @@
+{
+  "name": "rng-randomnumbergenerator",
+  "version": "0.0.4",
+  "description": "A simple package that generates a random number with 2 functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dep-5260/rng-randomnumbergenerator.git"
+  },
+  "keywords": [
+    "rng",
+    "randomnumber",
+    "rn",
+    "generator",
+    "numbergenerator",
+    "randomnumbergenerator",
+    "randomgenerator",
+    "random",
+    "number",
+    "array",
+    "shuffler"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dep-5260/rng-randomnumbergenerator/issues"
+  },
+  "homepage": "https://github.com/dep-5260/rng-randomnumbergenerator#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
